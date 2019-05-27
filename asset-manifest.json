@@ -1,13 +1,11 @@
 {
-  "main.css": "/checkout-example-react/static/css/main.064d49a5.chunk.css",
-  "main.js": "/checkout-example-react/static/js/main.95a2b020.chunk.js",
-  "main.js.map": "/checkout-example-react/static/js/main.95a2b020.chunk.js.map",
-  "runtime~main.js": "/checkout-example-react/static/js/runtime~main.16d65a8e.js",
-  "runtime~main.js.map": "/checkout-example-react/static/js/runtime~main.16d65a8e.js.map",
-  "static/js/2.76dd4ab3.chunk.js": "/checkout-example-react/static/js/2.76dd4ab3.chunk.js",
-  "static/js/2.76dd4ab3.chunk.js.map": "/checkout-example-react/static/js/2.76dd4ab3.chunk.js.map",
-  "index.html": "/checkout-example-react/index.html",
-  "precache-manifest.577923e8af3d89025b46225950e5b6a2.js": "/checkout-example-react/precache-manifest.577923e8af3d89025b46225950e5b6a2.js",
-  "service-worker.js": "/checkout-example-react/service-worker.js",
-  "static/css/main.064d49a5.chunk.css.map": "/checkout-example-react/static/css/main.064d49a5.chunk.css.map"
+  "main.js": "./static/js/main.a7256eb5.chunk.js",
+  "main.js.map": "./static/js/main.a7256eb5.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+  "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+  "static/js/2.920b2c7c.chunk.js": "./static/js/2.920b2c7c.chunk.js",
+  "static/js/2.920b2c7c.chunk.js.map": "./static/js/2.920b2c7c.chunk.js.map",
+  "index.html": "./index.html",
+  "precache-manifest.32abd0cac6d03babf1fb24777578e060.js": "./precache-manifest.32abd0cac6d03babf1fb24777578e060.js",
+  "service-worker.js": "./service-worker.js"
 }
