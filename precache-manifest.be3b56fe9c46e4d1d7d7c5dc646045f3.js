@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "c7d37a67430e6068db43",
-    "url": "/checkout-example-react/static/js/main.ca4b2d2a.chunk.js"
+    "revision": "492058a7f8ecf1b80c7e",
+    "url": "/checkout-example-react/static/js/main.e25dc72b.chunk.js"
   },
   {
     "revision": "b2a1f651d56af5893f7d",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/checkout-example-react/static/js/2.e3a711db.chunk.js"
   },
   {
-    "revision": "5a18b333cdb9fc209f334ece21d1a1f5",
+    "revision": "42ede7393e286ff4d4335c7a86f3cd8f",
     "url": "/checkout-example-react/index.html"
   }
 ];
