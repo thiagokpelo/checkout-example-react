@@ -1,11 +1,11 @@
 {
-  "main.js": "/checkout-example-react/static/js/main.25cd5c98.chunk.js",
-  "main.js.map": "/checkout-example-react/static/js/main.25cd5c98.chunk.js.map",
+  "main.js": "/checkout-example-react/static/js/main.ca4b2d2a.chunk.js",
+  "main.js.map": "/checkout-example-react/static/js/main.ca4b2d2a.chunk.js.map",
   "runtime~main.js": "/checkout-example-react/static/js/runtime~main.16d65a8e.js",
   "runtime~main.js.map": "/checkout-example-react/static/js/runtime~main.16d65a8e.js.map",
-  "static/js/2.2cdeaf8a.chunk.js": "/checkout-example-react/static/js/2.2cdeaf8a.chunk.js",
-  "static/js/2.2cdeaf8a.chunk.js.map": "/checkout-example-react/static/js/2.2cdeaf8a.chunk.js.map",
+  "static/js/2.e3a711db.chunk.js": "/checkout-example-react/static/js/2.e3a711db.chunk.js",
+  "static/js/2.e3a711db.chunk.js.map": "/checkout-example-react/static/js/2.e3a711db.chunk.js.map",
   "index.html": "/checkout-example-react/index.html",
-  "precache-manifest.5276b800639d417d1a34ac4b7ec10713.js": "/checkout-example-react/precache-manifest.5276b800639d417d1a34ac4b7ec10713.js",
+  "precache-manifest.50f7894a2f5a93b7802fba0866138f77.js": "/checkout-example-react/precache-manifest.50f7894a2f5a93b7802fba0866138f77.js",
   "service-worker.js": "/checkout-example-react/service-worker.js"
 }
